@@ -13,7 +13,7 @@
     "descricao": "Produzida com materiais reciclados.",
     "preco": 349,
     "categoria": "Roupas",
-    "imagem": "https://static.wixstatic.com/media/4703c8_d41f393056e645f8a49f111c6ec06ad5~mv2.jpg/v1/fill/w_520,h_347,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4703c8_d41f393056e645f8a49f111c6ec06ad5~mv2.jpg"
+    "imagem": "https://s.jcanedo.com/product/2023/06/prancheta-1-2906174232.jpg"
   },
   {
     "id": 3,
@@ -61,15 +61,15 @@
     "descricao": "Hidratação sem produtos químicos agressivos.",
     "preco": 149,
     "categoria": "Beleza",
-    "imagem": "https://cdn.dooca.store/3824/products/ivekweskq1mishqm5krjxaynyqxvgi0kwavd.png?v=1749173671&webp=0"
+    "imagem": "https://m.media-amazon.com/images/I/71s5sNcjooL._UF1000,1000_QL80_.jpg"
   },
   {
     "id": 9,
     "nome": "Garrafa Térmica Ecológica",
     "descricao": "Mantém líquidos quentes ou frios por até 12h.",
-    "preco": 99,
+    "preco": 599,
     "categoria": "Casa",
-    "imagem": "https://picsum.photos/300/200?9"
+    "imagem": "https://img.elo7.com.br/product/main/4CF4762/garrafa-termica-ecologica-garrafa-sustentavel.jpg"
   },
   {
     "id": 10,
