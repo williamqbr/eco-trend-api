@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "nome": "Camiseta Orgânica",
+    "descricao": "Feita com algodão orgânico certificado.",
+    "preco": 129,
+    "categoria": "Roupas",
+    "imagem": "https://picsum.photos/300/200?1"
+  },
+  {
+    "id": 2,
+    "nome": "Jaqueta Reciclada",
+    "descricao": "Produzida com materiais reciclados.",
+    "preco": 349,
+    "categoria": "Roupas",
+    "imagem": "https://picsum.photos/300/200?2"
+  },
+  {
+    "id": 3,
+    "nome": "Bolsa de Algodão Orgânico",
+    "descricao": "Bolsa feita com algodão orgânico e produção ética.",
+    "preco": 399,
+    "categoria": "Acessórios",
+    "imagem": "https://picsum.photos/300/200?3"
+  },
+  {
+    "id": 4,
+    "nome": "Óculos de Madeira",
+    "descricao": "Óculos de sol feitos de madeira de reflorestamento.",
+    "preco": 259,
+    "categoria": "Acessórios",
+    "imagem": "https://picsum.photos/300/200?4"
+  },
+  {
+    "id": 5,
+    "nome": "Shampoo Natural",
+    "descricao": "Sem sulfatos, parabenos ou químicos agressivos.",
+    "preco": 79,
+    "categoria": "Beleza",
+    "imagem": "https://picsum.photos/300/200?5"
+  },
+  {
+    "id": 6,
+    "nome": "Sabonete Artesanal",
+    "descricao": "Produzido com óleos essenciais naturais.",
+    "preco": 25,
+    "categoria": "Beleza",
+    "imagem": "https://picsum.photos/300/200?6"
+  },
+  {
+    "id": 7,
+    "nome": "Escova de Bambu",
+    "descricao": "Escova dental feita de bambu biodegradável.",
+    "preco": 19,
+    "categoria": "Beleza",
+    "imagem": "https://picsum.photos/300/200?7"
+  },
+  {
+    "id": 8,
+    "nome": "Canudo Reutilizável",
+    "descricao": "Feito em aço inoxidável, com estojo ecológico.",
+    "preco": 15,
+    "categoria": "Casa",
+    "imagem": "https://picsum.photos/300/200?8"
+  },
+  {
+    "id": 9,
+    "nome": "Garrafa Térmica Ecológica",
+    "descricao": "Mantém líquidos quentes ou frios por até 12h.",
+    "preco": 99,
+    "categoria": "Casa",
+    "imagem": "https://picsum.photos/300/200?9"
+  },
+  {
+    "id": 10,
+    "nome": "Pano de Cera de Abelha",
+    "descricao": "Substitui papel alumínio e plástico filme.",
+    "preco": 39,
+    "categoria": "Casa",
+    "imagem": "https://picsum.photos/300/200?10"
+  },
+  {
+    "id": 11,
+    "nome": "Carregador Solar Portátil",
+    "descricao": "Carregue seus dispositivos usando energia solar.",
+    "preco": 229,
+    "categoria": "Tecnologia",
+    "imagem": "https://picsum.photos/300/200?11"
+  },
+  {
+    "id": 12,
+    "nome": "Lâmpada LED Inteligente",
+    "descricao": "Econômica, conectada e controlada por app.",
+    "preco": 79,
+    "categoria": "Tecnologia",
+    "imagem": "https://picsum.photos/300/200?12"
+  }
+]
