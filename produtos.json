@@ -13,7 +13,7 @@
     "descricao": "Produzida com materiais reciclados.",
     "preco": 349,
     "categoria": "Roupas",
-    "imagem": "https://picsum.photos/300/200?2"
+    "imagem": "hhttps://static.wixstatic.com/media/4703c8_d41f393056e645f8a49f111c6ec06ad5~mv2.jpg/v1/fill/w_520,h_347,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/4703c8_d41f393056e645f8a49f111c6ec06ad5~mv2.jpg"
   },
   {
     "id": 3,
@@ -21,15 +21,15 @@
     "descricao": "Bolsa feita com algodão orgânico e produção ética.",
     "preco": 399,
     "categoria": "Acessórios",
-    "imagem": "https://picsum.photos/300/200?3"
+    "imagem": "https://cdn.dlojavirtual.com/static1/104442/sku/bolsas-e-mochilas-ecobag-ecologica-100-algodao-natural-saco-de-algodao-natural-100-medidas-20-x-25-cm-p-1731362946277.png"
   },
   {
     "id": 4,
-    "nome": "Óculos de Madeira",
-    "descricao": "Óculos de sol feitos de madeira de reflorestamento.",
-    "preco": 259,
+    "nome": "Relógio de Madeira Reciclada",
+    "descricao": "Relógio usando madeira sustentável e elegante.",
+    "preco": 199,
     "categoria": "Acessórios",
-    "imagem": "https://picsum.photos/300/200?4"
+    "imagem": "https://www.mazucom.com.br/imagens/3/img_produtos/60/60_60_1.jpg"
   },
   {
     "id": 5,
@@ -37,31 +37,31 @@
     "descricao": "Sem sulfatos, parabenos ou químicos agressivos.",
     "preco": 79,
     "categoria": "Beleza",
-    "imagem": "https://picsum.photos/300/200?5"
+    "imagem": "https://acdn-us.mitiendanube.com/stores/002/114/942/products/fotos-nuvem-shop-31-24ad1a5013d0d2a1f416494629297222-1024-1024.png"
   },
   {
     "id": 6,
-    "nome": "Sabonete Artesanal",
-    "descricao": "Produzido com óleos essenciais naturais.",
+    "nome": "Vela Ecológica",
+    "descricao":"Produzida com cera de soja",
     "preco": 25,
-    "categoria": "Beleza",
-    "imagem": "https://picsum.photos/300/200?6"
+    "categoria": "Casas",
+    "imagem": "https://cdn.awsli.com.br/600x1000/1272/1272842/produto/257300687/pillow--8-x-6-cm---6--ae8fkugv4r.jpg"
   },
   {
     "id": 7,
-    "nome": "Escova de Bambu",
-    "descricao": "Escova dental feita de bambu biodegradável.",
-    "preco": 19,
-    "categoria": "Beleza",
-    "imagem": "https://picsum.photos/300/200?7"
+    "nome": "Panela Ecológica",
+    "descricao": "Feita com alumínio reciclado",
+    "preco": 99,
+    "categoria": "Casa",
+    "imagem": "https://m.media-amazon.com/images/I/61B4tBXc6WL._UF894,1000_QL80_.jpg"
   },
   {
     "id": 8,
-    "nome": "Canudo Reutilizável",
-    "descricao": "Feito em aço inoxidável, com estojo ecológico.",
-    "preco": 15,
-    "categoria": "Casa",
-    "imagem": "https://picsum.photos/300/200?8"
+    "nome": "Creme Facial Vegano",
+    "descricao": "Hidratação sem produtos químicos agressivos.",
+    "preco": 149,
+    "categoria": "Beleza",
+    "imagem": "hhttps://cdn.dooca.store/3824/products/ivekweskq1mishqm5krjxaynyqxvgi0kwavd.png?v=1749173671&webp=0"
   },
   {
     "id": 9,
@@ -73,26 +73,26 @@
   },
   {
     "id": 10,
-    "nome": "Pano de Cera de Abelha",
-    "descricao": "Substitui papel alumínio e plástico filme.",
-    "preco": 39,
-    "categoria": "Casa",
-    "imagem": "https://picsum.photos/300/200?10"
+    "nome": "Livro de Programação",
+    "descricao": "Aprenda React do zero.",
+    "preco": 1999,
+    "categoria": "Livros",
+    "imagem": "https://martinsfontespaulista.vteximg.com.br/arquivos/ids/1361659-1000-1000/931126.jpg?v=637460681126500000"
   },
   {
     "id": 11,
-    "nome": "Carregador Solar Portátil",
-    "descricao": "Carregue seus dispositivos usando energia solar.",
-    "preco": 229,
-    "categoria": "Tecnologia",
-    "imagem": "https://picsum.photos/300/200?11"
+    "nome": "Pulseira de Bambu",
+    "descricao": "Pulseira artesanal feita com bambu natural, leve e durável.",
+    "preco": 39,
+    "categoria": "Acessórios",
+    "imagem": "https://img.elo7.com.br/product/zoom/3ECE341/pulseira-bambu-em-voltas-acessorio-hippie.jpg"
   },
   {
     "id": 12,
-    "nome": "Lâmpada LED Inteligente",
-    "descricao": "Econômica, conectada e controlada por app.",
-    "preco": 79,
-    "categoria": "Tecnologia",
-    "imagem": "https://picsum.photos/300/200?12"
+    "nome": "Óculos de Sol de Concha Marinha",
+    "descricao": "Armação feita com conchas recolhidas de forma responsável.",
+    "preco": 319,
+    "categoria": "Acessórios",
+    "imagem": "https://acdn-us.mitiendanube.com/stores/005/632/794/products/copia-de-oculos-de-sol-frente-7b900c3e85dd80048017492208874342-480-0.png"
   }
 ]
